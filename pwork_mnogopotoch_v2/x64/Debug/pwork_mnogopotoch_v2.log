@@ -1,0 +1,5 @@
+﻿  pwork_mnogopotoch_v2.cpp
+C:\Users\Psikrig\source\repos\pwork_mnogopotoch_v2\pwork_mnogopotoch_v2\pwork_mnogopotoch_v2.cpp(10,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Psikrig\source\repos\pwork_mnogopotoch_v2\pwork_mnogopotoch_v2\pwork_mnogopotoch_v2.cpp(21,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Psikrig\source\repos\pwork_mnogopotoch_v2\pwork_mnogopotoch_v2\pwork_mnogopotoch_v2.cpp(22,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  pwork_mnogopotoch_v2.vcxproj -> C:\Users\Psikrig\source\repos\pwork_mnogopotoch_v2\x64\Debug\pwork_mnogopotoch_v2.exe
